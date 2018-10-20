@@ -1,0 +1,128 @@
+.container {
+    background-color: #121738;
+    font-family: 'Cedarville Cursive', cursive;
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border: 25px solid transparent;
+    -webkit-border-image: url(/Users/josephine/Documents/General_Assembly/FEWD_DRAGONS/Projects/jossie03.github.io/HTMLbackground.jpg) 50 round; /* Safari 3.1-5 */
+    -o-border-image: url(/Users/josephine/Documents/General_Assembly/FEWD_DRAGONS/Projects/jossie03.github.io/HTMLbackground.jpg) 50 round; /* Opera 11-12.1 */
+    border-image: url(/Users/josephine/Documents/General_Assembly/FEWD_DRAGONS/Projects/jossie03.github.io/HTMLbackground.jpg) 50 round;
+    height: 800px;
+    width: 1350px;
+    padding: 50px;
+    
+}
+
+h1 {    
+    color: white;
+    box-sizing: border-box;
+    padding: 200px;
+}
+
+.aboutme {
+    font-family: 'Slabo 27px', serif;
+    line-height: 1.4;
+    font-size: 24px;
+    border: 10px lightgray solid;
+    border-radius: 20px;
+    padding: 50px;
+    
+  
+}
+
+.mywork {
+    font-family: 'Slabo 24px', serif;
+    line-height: 1.4;
+    font-size: 24px;
+    border: 10px lightgray solid;
+    border-radius: 20px;
+    padding: 60px;
+  
+}
+
+#box1 {
+    box-sizing: border-box;
+    height:50px;
+width:50px;
+display: block;
+flex-direction: row;
+justify-content: center;
+margin-left: auto;
+margin-right: auto;
+    
+}
+
+#box2 {
+    box-sizing: border-box;
+}
+
+#box3 {
+    box-sizing: border-box;
+}
+
+#box4 {
+    box-sizing: border-box;
+}
+
+
+
+
+.details {
+    font-family: 'Slabo 27px', serif;
+    font-weight: bold;  
+    color: red;
+}
+
+.container2 {
+    background-color: #121738;
+    font-family: 'Slabo 27px', serif;
+    font-size: 27px;
+    color: white;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    padding: 50px;
+    height: 285px;
+    width: 1350px;
+    border: 25px solid transparent;
+    -webkit-border-image: url(/Users/josephine/Documents/General_Assembly/FEWD_DRAGONS/Projects/jossie03.github.io/HTMLbackground.jpg) 50 round; /* Safari 3.1-5 */
+    -o-border-image: url(/Users/josephine/Documents/General_Assembly/FEWD_DRAGONS/Projects/jossie03.github.io/HTMLbackground.jpg) 50 round; /* Opera 11-12.1 */
+    border-image: url(/Users/josephine/Documents/General_Assembly/FEWD_DRAGONS/Projects/jossie03.github.io/HTMLbackground.jpg) 50 round;
+    border-top: 0px;
+}
+
+.fb {
+height:50px;
+width:50px;
+display: block;
+flex-direction: row;
+justify-content: center;
+margin-left: auto;
+margin-right: 90px;
+
+}
+
+.ig {
+height:80px;
+width:80px;
+display: block;
+flex-direction: row;
+justify-content: center;
+margin-left: auto;
+margin-right: 78px;
+    
+}
+
+.emaillogo {
+height:50px;
+width:50px;
+display: block;
+margin-left: auto;
+margin-right: 90px;
+    
+
+}
